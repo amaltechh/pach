@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# 💫 About Me
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Amal%20Benny%20Joseph&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
-## Available Scripts
+<p align="center">
+  <a href="https://github.com/amaltechh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+%2F+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### 🚀 Quick Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔭 I’m currently working on **[Pach](https://github.com/amaltechh/pach)**, a citizen-governance platform.
+- 🌱 I’m currently deep-diving into **Machine Learning & AI Integration**.
+- 👯 I’m looking to collaborate on **Open Source MERN Projects**.
+- 💬 Ask me about **React, Node.js, or how to build scalable systems**.
+- ⚡ Fun fact: **I believe clean code is a form of art.**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### 🛠️ Technical Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,java,c,docker,aws,firebase,vercel,figma" />
+</p>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📊 GitHub Stats (Animated)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaltechh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaltechh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaltechh&theme=tokyonight&hide_border=true" />
+</p>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 📂 Featured Work
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[🏛️ Pach](https://github.com/amaltechh/pach)** | Citizen portal for local governance. | React, Node, Mongo |
+| **[🆘 Disaster Mgmt](https://github.com/amaltechh/disaster)** | Real-time crisis response system. | MERN, Socket.io |
+| **[👶 Baby Care](https://github.com/amaltechh/baby)** | Daycare & milestone tracking app. | MERN, Firebase |
+| **[📈 Stress Merge](https://github.com/amaltechh/stress-merge)** | Data optimization & performance tool. | React, JS |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 📫 Get in Touch
 
-## Learn More
+<p align="left">
+<a href="mailto:amalbennyjoseph11@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://amaltechh.github.io"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=react&logoColor=10B981" /></a>
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
